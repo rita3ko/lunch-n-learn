@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `My bloggy blog 📓✨`,
+    title: `annika's cool blog`,
     author: {
-      name: `Pages McPageyPants`,
-      summary: `says hi.`,
+      name: `annika`,
+      summary: `is cool.`,
     },
     description: `A starter blog demonstrating what we can do with Pages.`,
     siteUrl: `https://my-name.pages.dev`,
