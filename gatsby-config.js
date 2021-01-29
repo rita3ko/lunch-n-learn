@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `My bloggy blog 📓✨`,
+    title: `Rita's blog 📓✨`,
     author: {
       name: `Pages McPageyPants`,
       summary: `says hi.`,
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Bloggy Blog`,
+        name: `Rita's Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#fcaeff`,
