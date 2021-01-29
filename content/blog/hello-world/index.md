@@ -6,4 +6,4 @@ description: "Hello World"
 
 Hi friends!
 
-Welcome to my very first blog!!
+I love lunch & learns!
